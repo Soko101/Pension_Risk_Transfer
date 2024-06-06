@@ -1,6 +1,7 @@
 # Pension_Risk_Transfer
-This repo contains simple self studies that I have been carrying out to better understand different financial models
-Optimizing Pension Risk Transfer (PRT) Pricing Models Using Advanced Data Analytics and Machine Learning Techniques
+
+# Optimizing Pension Risk Transfer (PRT) Pricing Models Using Advanced Data Analytics and Machine Learning Techniques
+
 **Objective:**
 
 The objective of my research project is to develop and refine pricing models for 
