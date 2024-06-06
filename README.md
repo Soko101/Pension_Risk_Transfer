@@ -47,3 +47,9 @@ machine learning techniques to improve accuracy, efficiency, and risk management
 - Improved accuracy in PRT pricing models, leading to better financial outcomes.
 - Enhanced ability to manage and mitigate risks associated with pension plans.
 - Demonstration of the value of combining traditional actuarial methods with modern data science techniques.
+
+**References and Works/articles that helped me in carrying out this research**
+- Full colab notebook i used: https://colab.research.google.com/drive/1_KQbRdvoNmSf1dyUeC_vgOYIAkDwLDZp
+- https://www.abrigo.com/blog/intro-asset-liability-management-alm-strategies-1/
+- https://www.synario.com/resources/blog/sensitivity-and-risk-analysis-techniques/#:~:text=Sensitivity%20analysis%20aims%20to%20eliminate,long%2Dterm%20decision%2Dmaking.
+- https://stackoverflow.com/questions/41045699/performing-a-sensitivity-analysis-with-python
