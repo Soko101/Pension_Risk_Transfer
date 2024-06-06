@@ -7,6 +7,8 @@
 The objective of my research project is to develop and refine pricing models for 
 Pension Risk Transfer (PRT) products using advanced data analytics and
 machine learning techniques to improve accuracy, efficiency, and risk management.
+The motivation for this study is because I wanted to better understand financial
+models and how to manipulate/analyse data within pricing models
 
 **Key Components:**
 
